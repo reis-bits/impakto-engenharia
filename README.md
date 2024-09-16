@@ -1,6 +1,7 @@
 # Impakto engenharia
 
 Trabalho feito para a empresa impakto engenharia. Construído com Bootstrap, SaSS e JavaScript e JQuery.
+
 ##
 
 Desenvolvimento feito por Eduardo Reis, do perfil https://github.com/reis-bits ao longo de vários meses, dividido em várias etapas incluindo:
@@ -13,22 +14,30 @@ Desenvolvimento feito por Eduardo Reis, do perfil https://github.com/reis-bits a
 
 O website comporta 6 sessões que armazenam conteúdo informativo sobre a empresa e seus aspectos.
 
-![image](https://github.com/user-attachments/assets/534122db-40c0-4e65-8d65-cfa29f04ca8f)
+![image](https://github.com/user-attachments/assets/9aa6a70c-649b-49d7-ae90-833f8b521cae)
 
-![image](https://github.com/user-attachments/assets/c442fbe7-df9d-4ba2-a5a4-84594a1d8fa8)
+Landing Page elegante e responsiva.
+
+![image](https://github.com/user-attachments/assets/8df6ec11-636e-4d63-8068-4d760c1d1611)
+
 
 Sessão sobre, com descrição breve da empresa
+![image](https://github.com/user-attachments/assets/3d636861-afc9-4b71-ac7a-8a17f1276c14)
 
-![image](https://github.com/user-attachments/assets/5a8792e1-caf2-4b03-b05e-942eed1c8199)
 
 Sessão projetos, com modais interativos que discorrem aspectos das construções e hovers informativos.
 
-![image](https://github.com/user-attachments/assets/e1789d5e-54a4-4d8d-b135-565e71bcb473)
+![image](https://github.com/user-attachments/assets/54186d56-9a92-4fe7-9750-5b7bbd5a26fb)
+
 
 Sessão serviços que demonstra a ampla variedade de serviços prestados pela Impakto.
-![image](https://github.com/user-attachments/assets/a1543472-c992-417b-bc7e-f2a86e6d4023)
+
+![image](https://github.com/user-attachments/assets/5ec63a75-4479-4f78-ac07-29630c860f48)
+
 
 Grade com os clientes mais notáveis da empresa.
-![image](https://github.com/user-attachments/assets/4fe76699-1707-4d18-b6d1-52489259362f)
+
+![image](https://github.com/user-attachments/assets/3cca98b6-c844-42a3-b2d1-1ecca1759f6f)
+
 
 Página de contato com informações e opções de contato da Impakto, contendo também, mapa da localização da sua sede em Guarulhos
